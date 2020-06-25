@@ -4,6 +4,7 @@ This project aims to make easier humans' lectures automatizing  the script by ge
 _This code includes:_
 - Raw training model
 - Testing process and its combination with the tkinter python lib code
+
 _This code doesn't include:_
 - Saved weights file
 - Eyes dataset since it is useless depending on the project you want to run into
